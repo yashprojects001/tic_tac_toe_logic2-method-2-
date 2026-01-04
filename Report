@@ -1,0 +1,34 @@
+Algorithm:
+
+Step 1: Start
+Step 2: Initialize empty board
+Step 3: Display board
+Step 4: Accept human move
+Step 5: Check for win
+Step 6: Apply AI rules (win, block, center, corner, side)
+Step 7: Make AI move
+Step 8: Check for win or draw
+Step 9: Repeat until game ends
+Step 10: Stop
+
+
+
+Flowchart:
+
+START
+  ↓
+Initialize Board
+  ↓
+Human Move
+  ↓
+Win?
+  ↓Yes → End
+  ↓No
+Apply AI Rules
+  ↓
+AI Move
+  ↓
+Win?
+  ↓Yes → End
+  ↓No
+Repeat
